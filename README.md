@@ -1,6 +1,6 @@
 Welcome to Cloud Carpentry Computing
 =====================================
-![alert](cloud.jpg)
+![alert](images/cloud1.jpg)
 
 Here you will find:
 
